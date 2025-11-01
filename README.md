@@ -14,3 +14,8 @@ I opened these PNG images using GDrive, and I cleaned the text and converted it 
 Finally, I exported the file with ".md" and uploaded it to this repository on GitHub.
 
 # digital literary assignment-3
+I built a black sheet on **Google Drive** and filled in some data about books, such as "title", "author", "publication year", etc.
+I exported the sheet in ".csv" format.
+Finally, I uploaded it to GitHub.
+
+
